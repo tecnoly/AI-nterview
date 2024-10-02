@@ -1,0 +1,12 @@
+appId: com.nthings.ainterview
+productName: ainterview
+copyright: Copyright © 2024 nthings
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
